@@ -1,7 +1,7 @@
 Detalles importantes del Challenge Conversor de Monedas
 *******************************************************
 Fuente de API: ExchangeRate-API
-API key: Your API Key: 3c78b27fb6bf1a971a4bc129
+API key: Your API Key: *********************
 ****************************
 Aplicación desarrollada mediante el uso del aprendizaje en
 ALuraLatam-OracleONE-G7 BackEnd-Dev en Formación. También se
